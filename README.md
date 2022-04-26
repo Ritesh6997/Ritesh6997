@@ -38,5 +38,4 @@
 
 <div display="flex" justify-content:"space-around" >
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ritesh6997&show_icons=true&locale=en" alt="ritesh6997" />
-
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh6997&" alt="ritesh6997" /></div>
+<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh6997&show_icons=true&locale=en&layout=compact" alt="ritesh6997" /></div>
