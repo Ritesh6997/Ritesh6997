@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritesh Mude</h1>
 <h3 align="center">MERN Stack Developer</h3>
 <h3 align="left">About Me</h3>
-<div style="display: flex; justify-content: space-around;" >
+<div style="display: flex; justify-content: space-around;text-align:justify;" >
     
-<p align="left" style="width: 50%;"> I am Aspiring, Analytical, Observant and detail-oriented Full-Stack
+<p align="left" style="width: 50%; text-align:justify;display:flex"> I am Aspiring, Analytical, Observant and detail-oriented Full-Stack
         Web Developer with a specialization in MERN stack. Self-motivated
         and curious, with a keen interest in building user-centric products.
         Capable of writing code in frontend by using HTML, CSS, React.js,
