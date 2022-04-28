@@ -23,7 +23,7 @@
 
 - 📫 Feel free to reach me at **ritesh.mude@12345@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mN35rZCbJdhCAIzst2Lf4DQ6OAagXFGG/view?usp=sharing)
 
 <hr>
 
